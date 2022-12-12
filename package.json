@@ -19,7 +19,7 @@
   "homepage": "https://github.com/God-Jr/Node-ExpressJSON-SimpleCrud#readme",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.9.1",
     "uuid": "^3.4.0"
   },
